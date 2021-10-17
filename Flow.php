@@ -128,7 +128,7 @@
         </nav>
         <!--Menu zone-->
         <ul>
-            <li><a class="active" href="#">หน้าหลัก</a></li>
+            <li><a class="active" href="index.php">หน้าหลัก</a></li>
             <li><a href="Agency1.php">คณะกรรมการ</a></li>
             <li><a href="Law.php">กฎหมาย</a></li>
             <li><a href="Question1.php">คำถามที่พบบ่อย</a></li>
