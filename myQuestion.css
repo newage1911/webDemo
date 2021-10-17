@@ -1,0 +1,308 @@
+.div-question{
+    background-color:#f2f8ff;
+    padding: 10px;
+    color: #79240f;
+    font-size: larger;
+}
+
+.container-question{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 40px;
+}
+
+#q1{
+    color: #79240f ;
+    font-size: large;   
+}
+#ans1{
+    margin-top: 10px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+#q2{
+    color: #79240f ;
+    font-size: large;   
+}
+#ans2{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 70px;
+    display: none;
+}
+
+#q3{
+    color: #79240f;
+    font-size: large;
+}
+#ans3{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+#q4{
+    color: #79240f;
+    font-size: large;
+}
+#ans4{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+#q5{
+    color: #79240f;
+    font-size: large;
+}
+#ans5{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q6{
+    color: #79240f;
+    font-size: large;
+}
+#ans6{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q7{
+    color: #79240f;
+    font-size: large;
+}
+#ans7{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q8{
+    color: #79240f;
+    font-size: large;
+}
+#ans8{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q9{
+    color: #79240f;
+    font-size: large;
+}
+#ans9{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q10{
+    color: #79240f;
+    font-size: large;
+}
+#ans10{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q11{
+    color: #79240f;
+    font-size: large;
+}
+#ans11{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q12{
+    color: #79240f;
+    font-size: large;
+}
+#ans12{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q13{
+    color: #79240f;
+    font-size: large;
+}
+#ans13{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q14{
+    color: #79240f;
+    font-size: large;
+}
+#ans14{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q15{
+    color: #79240f;
+    font-size: large;
+}
+#ans15{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q16{
+    color: #79240f;
+    font-size: large;
+}
+#ans16{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q17{
+    color: #79240f;
+    font-size: large;
+}
+#ans17{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q18{
+    color: #79240f;
+    font-size: large;
+}
+#ans18{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q19{
+    color: #79240f;
+    font-size: large;
+}
+#ans19{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q20{
+    color: #79240f;
+    font-size: large;
+}
+#ans20{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q21{
+    color: #79240f;
+    font-size: large;
+}
+#ans21{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q22{
+    color: #79240f;
+    font-size: large;
+}
+#ans22{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q23{
+    color: #79240f;
+    font-size: large;
+}
+#ans23{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+#q24{
+    color: #79240f;
+    font-size: large;
+}
+#ans24{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+.containerQ1{
+    margin-bottom: 20px;
+}
+.containerQ2{
+    margin-bottom: 20px;
+}
+.containerQ3{
+    margin-bottom: 20px;
+}
+.containerQ4{
+    margin-bottom: 20px;
+}
+.containerQ5{
+    margin-bottom: 20px;
+}
+.containerQ6{
+    margin-bottom: 20px;
+}
+.containerQ7{
+    margin-bottom: 20px;
+}
+.containerQ8{
+    margin-bottom: 20px;
+}
+.containerQ9{
+    margin-bottom: 20px;
+}
+.containerQ10{
+    margin-bottom: 20px;
+}
+.containerQ11{
+    margin-bottom: 20px;
+}
+.containerQ12{
+    margin-bottom: 20px;
+}
+.containerQ13{
+    margin-bottom: 20px;
+}
+.containerQ14{
+    margin-bottom: 20px;
+}
+.containerQ15{
+    margin-bottom: 20px;
+}
+.containerQ16{
+    margin-bottom: 20px;
+}
+.containerQ17{
+    margin-bottom: 20px;
+}
+.containerQ18{
+    margin-bottom: 20px;
+}
+.containerQ19{
+    margin-bottom: 20px;
+}
+.containerQ20{
+    margin-bottom: 20px;
+}
+.containerQ21{
+    margin-bottom: 20px;
+}
+.containerQ22{
+    margin-bottom: 20px;
+}
+.containerQ23{
+    margin-bottom: 20px;
+}
+.containerQ24{
+    margin-bottom: 20px;
+}
