@@ -143,17 +143,17 @@
     <div class="row" style="margin-top: 20px;margin-bottom: 30px;">
       <div class="col-2"></div>
       <div class="col-3">
-        <a href="Feature1.html"><img class="center" id="" src="check.png" alt="4"
+        <a href="Feature1.php"><img class="center" id="" src="check.png" alt="4"
             style=" border-radius: 1.5%;"></a>
         <p style="text-align: center; margin-top: 20px;">ตรวจสอบประเภทการยื่น</p>
       </div>
       <div class="col-2">
-        <a href="Flow.html"><img class="center" id="" src="steps.png" alt="4"
+        <a href="Flow.php"><img class="center" id="" src="steps.png" alt="4"
             style=" border-radius: 1.5%;"></a>
         <p style="text-align: center; margin-top: 20px;">ขั้นตอนการพิจารณา</p>
       </div>
       <div class="col-3">
-        <a href="Form1.html"><img class="center" id="" src="web.png" alt="4"
+        <a href="Form1.php"><img class="center" id="" src="web.png" alt="4"
             style=" border-radius: 1.5%;"></a>
         <p style="text-align: center; margin-top: 20px;">แบบฟอร์ม</p>
       </div>
@@ -162,7 +162,7 @@
     <div class="row" style="margin-top: 50px; margin-bottom: 100px;">
       <div class="col-2"></div>
       <div class="col-3">
-        <a href="Document.html"><img class="center" id="" src="folder.png" alt="4"
+        <a href="Document.php"><img class="center" id="" src="folder.png" alt="4"
             style=" border-radius: 1.5%;"></a>
         <p style="text-align: center; margin-top: 20px;">ส่งเอกสาร</p>
       </div>
