@@ -137,7 +137,7 @@
     <div class="container" style=" font-family: 'Sarabun', sans-serif; margin-top: 230px; margin-bottom: 50px;">
         <p style="font-weight: bold; font-size: 18px;">คุณสมบัติ</p>
         <div class="PDF" style="width: 100%; height: 900px;"><embed style="width: 100%; height: 100%;"
-                src="word/feature.pdf" type=""></div>
+                src="Feature1.pdf" type=""></div>
     </div>
 
     <!--Footer-->
