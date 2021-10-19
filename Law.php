@@ -129,7 +129,7 @@
       <li><a href="Agency1.php">คณะกรรมการ</a></li>
       <li><a class="active" href="Law.php">กฎหมาย</a></li>
       <li><a href="Question1.php">คำถามที่พบบ่อย</a></li>
-  </ul>
+    </ul>
     </div>
   </header>
 
@@ -140,28 +140,40 @@
     <p style="font-weight: bold; padding-left: 20px; font-size: 16px; ">
       พระราชบัญญัติควบคุมโรคจากการประกอบการอาชีพและสิ่งแวดล้อม พ.ศ. 2562</p>
     <dl>
-      <dd><a href=""
-      style=" font-weight: bold; padding-left: 40px; font-size: 16px; ">พระราชบัญญัติควบคุมโรคจากการประกอบการอาชีพและโรคจากสิ่งแวดล้อม
-      พ.ศ. 2562</a><br></dd>
-      <dd><a href="" style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">กฎกระทรวง เรื่อง
-      กำหนกมาตรฐานการให้บริการของหน่วยบริการอาชีวเวชกรรม</a><br></dd>
-      <dd><a href="" style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">เอกสารแนบท้าย กฎกระทรวง เรื่อง
-      กำหนดมาตรฐานการให้บริการของหน่วยบริการอาชีวเวชกรรม</a><br></dd>
-      <dd><a href="" style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">กฎกระทรวง เรื่อง
-      กำหนดมาตรฐานการให้บริการของหน่วยบริการเวชกรรมสิ่งแวดล้อม</a><br></dd>
-      <dd><a href="" style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">กฎกระทรวง เรื่อง การขอขึ้นทะเบียน
-      การขึ้นทะเบียน อายุและการต่ออายุการขึ้นทะเบียน การออกใบแทนการขึ้นทะเบียน การเพิกถอนทะเบียน
-      และการประเมินคุณภาพการให้บริการที่ได้ขึ้นทะเบียน พ.ศ. ...</a><br></dd>
-      <dd><a href="" style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">เอกสารแนบท้าย กฎกระทรวง เรื่อง
-      การขอขึ้นทะเบียน การขึ้นทะเบียน อายุและการต่ออายุการขึ้นทะเบียน การออกใบแทนการขึ้นทะเบียน การเพิกถอนทะเบียน
-      และการประเมินคุณภาพการให้บริการที่ได้ขึ้นทะเบียน พ.ศ. ...</a><br><br></dd>
+      <dd><a href="พรบ.โรค 2562.PDF"
+          style=" font-weight: bold; padding-left: 40px; font-size: 16px; ">พระราชบัญญัติควบคุมโรคจากการประกอบการอาชีพและโรคจากสิ่งแวดล้อม
+          พ.ศ. 2562</a><br></dd>
+      <dd><a href="1.1 (ร่าง) อาชีวเวชกรรม V 26-8-64 v1.pdf"
+          style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">กฎกระทรวง เรื่อง
+          กำหนดมาตรฐานการให้บริการของหน่วยบริการอาชีวเวชกรรม</a><br></dd>
+      <dd><a href="1.2 แนบท้าย อาชีวเวชกรรม V 26-8-64 v1.pdf"
+          style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">เอกสารแนบท้าย กฎกระทรวง เรื่อง
+          กำหนดมาตรฐานการให้บริการของหน่วยบริการอาชีวเวชกรรม</a><br></dd>
+      <dd><a href="2.1 ร่างกฎEHS V.15-09-64.pdf"
+          style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">กฎกระทรวง เรื่อง
+          กำหนดมาตรฐานการให้บริการของหน่วยบริการเวชกรรมสิ่งแวดล้อม</a><br></dd>
+      <dd><a href="2.2 แนบท้าย EHS V.150964.pdf"
+          style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">เอกสารแนบท้าย กฎกระทรวง เรื่อง
+          กำหนดมาตรฐานการให้บริการของหน่วยบริการเวชกรรมสิ่งแวดล้อม</a><br></dd>
+      <dd><a href="3.1 ร่าง ม 25  V.26-08-64.pdf"
+          style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">กฎกระทรวง เรื่อง การขอขึ้นทะเบียน
+          การขึ้นทะเบียน อายุและการต่ออายุการขึ้นทะเบียน การออกใบแทนการขึ้นทะเบียน การเพิกถอนทะเบียน
+          และการประเมินคุณภาพการให้บริการที่ได้ขึ้นทะเบียน พ.ศ. ...</a><br></dd>
+      <dd><a href="3.2 attachdocม 25  V26-08-64.pdf"
+          style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">เอกสารแนบท้าย กฎกระทรวง เรื่อง
+          การขอขึ้นทะเบียน การขึ้นทะเบียน อายุและการต่ออายุการขึ้นทะเบียน การออกใบแทนการขึ้นทะเบียน การเพิกถอนทะเบียน
+          และการประเมินคุณภาพการให้บริการที่ได้ขึ้นทะเบียน พ.ศ. ...</a><br><br></dd>
     </dl>
     <p style="font-weight: bold; padding-left: 20px; font-size: 16px; ">
       ประกาศกระทรวงสาธารณะสุข</p>
     <dl>
-      <dd><a href="" style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">ประกาศกระทรวงสาธารณสุข เรื่อง สถานพยาบาลอื่นซึ่งได้รับการยกเว้นไม่ต้องอยู่ในบังคับตามกฎหมายว่าด้วยสถานพยาบาล พ.ศ. 2541</a></dd>
+      <dd><a href="11.PDF" style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">ประกาศกระทรวงสาธารณสุข
+          เรื่อง
+          สถานพยาบาลอื่นซึ่งได้รับการยกเว้นไม่ต้องอยู่ในบังคับตามกฎหมายว่าด้วยสถานพยาบาล พ.ศ. 2541</a></dd>
+      <dd><a href="ประกาศกระทรวงโรคจากการทำงาน 2563.PDF" style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">ประกาศกระทรวงสาธารณสุข เรื่อง ชื่อหรืออาการสำคัญของโรคจากการประกอบอาชีพ พ.ศ. 2563</a></dd>
+      <dd><a href="ประกาศกระทรวงฌรคจากสิ่งแวดล้อม.PDF" style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">ประกาศกระทรวงสาธารณสุข เรื่อง ชื่อหรืออาการสำคัญของโรคจากสิ่งแวดล้อม พ.ศ. 2563</a></dd>
     </dl>
-    
+
   </div>
 
 
@@ -169,9 +181,11 @@
     <div class="div-ag01"
       style="background-color: rgba(135, 206, 250, 0.421);padding: 10px;font-size: 20px;font-family: 'Sarabun', sans-serif;">
       กฎหมายที่เกี่ยวข้อง</div><br>
-      <dl>
-        <dd><a href="" style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">พระราชบัญญัติสถานพยาบาล พ.ศ. 2541</a></dd>
-      </dl>
+    <dl>
+      <dd><a href="พรบ.สถานพยาบาล.pdf"
+          style=" font-weight: bold; padding-left: 60px; font-size: 16px; ">พระราชบัญญัติสถานพยาบาล พ.ศ.
+          2541</a></dd>
+    </dl>
   </div>
 
   <!--Footer-->
