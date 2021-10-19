@@ -134,7 +134,7 @@
         </div>
     </header>
 
-    <div class="container-question" style="margin-top: 230px; margin-bottom: 50px;">
+    <div class="container-question" style="margin-top: 230px; margin-bottom: 50px;" style="font-weight: bold;">
         <div class="div-ag01"
             style="background-color: rgba(135, 206, 250, 0.421);padding: 10px;font-size: 20px;font-family: 'Sarabun', sans-serif;">
             คำถามที่พบบ่อยเกี่ยวกับการขึ้นทะเบียนหน่วยบริการสุขภาพอาชีวเวชกรรมและเวชกรรมสิ่งแวดล้อม</div><br>
